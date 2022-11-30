@@ -11,4 +11,7 @@
     <string name="plus_button">+</string>
     <string name="equal_button">=</string>
 
+    <string name="close_button">닫기</string>
+    <string name="clear_history_button">계산기록 삭제</string>
+
 </resources>
