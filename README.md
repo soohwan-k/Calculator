@@ -16,5 +16,7 @@
 
 * kotiln
   * 확장 함수
-  * data class
-  
+  * data class  
+      
+        
+(정수 한정, 연산자 1회만 사용 가능)
