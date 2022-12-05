@@ -8,7 +8,7 @@
   * ConstraintLayout
   * LayoutInflater
     
-* Thread
+* Thread - 네트워크 작업, db 작업 등 main thread에서 하기 무거운 작업들을 새로운 thread를 만들어서 진행
   * 타 Thread 만들어서 사용
   * runOnUiThread 사용
     
